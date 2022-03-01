@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T15:20:16.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.4" etag="q2lqEcbAnoGr8WaHEF1q" type="github"><diagram id="ZCDt3wnZe9ZKAjHPzFX2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-01T15:52:28.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="gBBcXy70UsHWkymUDU7h" version="16.6.4" type="github">
+  <diagram id="ZCDt3wnZe9ZKAjHPzFX2" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="440" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-3" value="Voir les employés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-4" value="Ajouter un employé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-5" value="Modifier un employé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-6" value="Supprimer un employé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="290" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-7" value="Rechercher un employé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="190" width="144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-14" value="Voir les employés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-15" value="Ajouter un employé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-16" value="Rechercher un employé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="450" width="144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-17" value="Modifier un employé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qW5DzAwAYBp36P1s8dmP-18" value="Supprimer un employé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="550" width="136" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
