@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T00:33:15.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="SOwqhxa7oxkRImjiN8W6" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T01:34:56.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="au0IYGAuXqI2-P8yqjcs" version="16.6.5" type="github">
   <diagram id="L349TRCt58dAEaXEeQ42" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
         <mxCell id="BuJLnd1Ok6ywHaKeZaCG-2" value="Voir les employés" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BuJLnd1Ok6ywHaKeZaCG-7" value="Voir les employés" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+        <mxCell id="BuJLnd1Ok6ywHaKeZaCG-7" value="Afficher les employés" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="364" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BuJLnd1Ok6ywHaKeZaCG-9" value="Rechercher un employé" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="364" y="149" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BuJLnd1Ok6ywHaKeZaCG-12" value="Voir ses demande de conges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+        <mxCell id="BuJLnd1Ok6ywHaKeZaCG-12" value="Afficher ses demandes de conges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="359" y="200" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BuJLnd1Ok6ywHaKeZaCG-14" value="Rechercher une annonce" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
@@ -28,10 +28,10 @@
         <mxCell id="BuJLnd1Ok6ywHaKeZaCG-18" value="faire une demande de conges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="354" y="340" width="140" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="BuJLnd1Ok6ywHaKeZaCG-20" value="Voir les annonces" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+        <mxCell id="BuJLnd1Ok6ywHaKeZaCG-20" value="Afficher&amp;nbsp;les annonces" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="364" y="548" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BuJLnd1Ok6ywHaKeZaCG-21" value="Afficher une demande de conges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="BuJLnd1Ok6ywHaKeZaCG-21" value="Consulter une demande de conges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="360" y="270" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BuJLnd1Ok6ywHaKeZaCG-22" value="Se connecter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
