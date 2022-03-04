@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T14:11:36.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="rwMDy2JCM3ji8o5-vHn_" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T02:13:05.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="HZWofDRaPuCuAIpL0oxl" version="16.6.5" type="github">
   <diagram id="ZCDt3wnZe9ZKAjHPzFX2" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="PkZVKw1x2F2zGsOYMvtc-63" value="Supprimer un employé" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkZVKw1x2F2zGsOYMvtc-64" value="Voir les employés" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+        <mxCell id="PkZVKw1x2F2zGsOYMvtc-64" value="Afficher&amp;nbsp;les employés" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="374" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PkZVKw1x2F2zGsOYMvtc-65" value="Ajouter un employé" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="PkZVKw1x2F2zGsOYMvtc-68" value="Supprimer un employé" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="374" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkZVKw1x2F2zGsOYMvtc-69" value="Voir les demande de conges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+        <mxCell id="PkZVKw1x2F2zGsOYMvtc-69" value="Afficher&amp;nbsp;les demande de conges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="370" y="360" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PkZVKw1x2F2zGsOYMvtc-70" value="Ajouter une annonce" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="PkZVKw1x2F2zGsOYMvtc-77" value="Voir les annonces" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="373" y="635" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkZVKw1x2F2zGsOYMvtc-78" value="Afficher une demande de conges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="PkZVKw1x2F2zGsOYMvtc-78" value="Consulter une demande de conges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="369" y="430" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PkZVKw1x2F2zGsOYMvtc-79" value="Se connecter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
