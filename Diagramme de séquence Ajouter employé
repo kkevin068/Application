@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T17:18:32.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.1" etag="G8nZ6ISTQb_ja8kuFCFG" type="github"><diagram id="KjoFxV1CwAtgnuXmavkD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T17:36:34.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="9aglYG0vIZL7ZBhZ5jCu" version="18.1.1" type="github">
+  <diagram id="KjoFxV1CwAtgnuXmavkD" name="Page-1">
+    <mxGraphModel dx="868" dy="3957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fT2grMXMLWphwwbSTFSN-2" value="Utilisateur" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;size=45;" vertex="1" parent="1">
+          <mxGeometry x="118" y="-2735" width="20" height="735" as="geometry" />
+        </mxCell>
+        <mxCell id="fT2grMXMLWphwwbSTFSN-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="fT2grMXMLWphwwbSTFSN-2">
+          <mxGeometry x="5" y="275" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fT2grMXMLWphwwbSTFSN-4" value="Système&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-2720" width="100" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="fT2grMXMLWphwwbSTFSN-24" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-2640" width="680" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fT2grMXMLWphwwbSTFSN-25" value="Se connecter" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-2613" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fT2grMXMLWphwwbSTFSN-27" value="&lt;br&gt;Dashboard" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=middle;spacingTop=36;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;size=30;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-2530" width="50" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="fT2grMXMLWphwwbSTFSN-31" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.8;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="131" y="-2459.96" as="sourcePoint" />
+            <mxPoint x="440" y="-2459" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
