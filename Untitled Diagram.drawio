@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T18:19:16.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ve6oOxs8BgwfQTJ-NbCp" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T18:21:40.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Iv4L2xwYjtDEYQesmD5e" version="18.1.1" type="github">
   <diagram id="6rhUcgqCmC03kPDw2WSL" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,22 +84,22 @@
         <mxCell id="s6SQ2Vj1oC093iPoEPf_-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="565" y="693" width="10" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="s6SQ2Vj1oC093iPoEPf_-32" value="Ajout Effectué" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="s6SQ2Vj1oC093iPoEPf_-32" value="Page d&#39;accueil" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.0523" y="-9" relative="1" as="geometry">
             <mxPoint x="562" y="560" as="sourcePoint" />
             <mxPoint x="216" y="558" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s6SQ2Vj1oC093iPoEPf_-33" value="Veuillez remplir tout les champs" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.2;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="s6SQ2Vj1oC093iPoEPf_-31" edge="1">
+        <mxCell id="s6SQ2Vj1oC093iPoEPf_-33" value="Login ou Mot de passe incorrecte" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.2;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="s6SQ2Vj1oC093iPoEPf_-31" edge="1">
           <mxGeometry x="0.0728" y="-10" relative="1" as="geometry">
             <mxPoint x="550" y="694" as="sourcePoint" />
             <mxPoint x="215" y="694" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s6SQ2Vj1oC093iPoEPf_-34" value="[Si tout les champs remplis]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
-          <mxGeometry x="204" y="500" width="80" height="26" as="geometry" />
+        <mxCell id="s6SQ2Vj1oC093iPoEPf_-34" value="[Si ok]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="169" y="500" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="s6SQ2Vj1oC093iPoEPf_-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="565" y="557.5" width="10" height="45.5" as="geometry" />
