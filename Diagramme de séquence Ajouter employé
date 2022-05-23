@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T18:38:13.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="HMFCggRkmnMAiAw011Uy" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T18:38:59.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="IfQNiv4QYmrz-67hVPXo" version="18.1.1" type="github">
   <diagram id="KjoFxV1CwAtgnuXmavkD" name="Page-1">
     <mxGraphModel dx="868" dy="3957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
         <mxCell id="fT2grMXMLWphwwbSTFSN-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="618" y="-1963" width="10" height="45.5" as="geometry" />
         </mxCell>
-        <mxCell id="fT2grMXMLWphwwbSTFSN-78" value="Diagramme Séquence Se conter" style="shape=umlFrame;whiteSpace=wrap;html=1;width=220;height=20;" vertex="1" parent="1">
+        <mxCell id="fT2grMXMLWphwwbSTFSN-78" value="Diagramme Séquence Ajouter Employé" style="shape=umlFrame;whiteSpace=wrap;html=1;width=242;height=21;" vertex="1" parent="1">
           <mxGeometry x="78" y="-2800.5" width="680" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-76" value="[Sinon]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
