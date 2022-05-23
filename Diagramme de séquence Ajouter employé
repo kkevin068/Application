@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T18:42:21.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="cFdPZNgPk2RhZisGAInb" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T20:18:12.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="26GMQFQRGIvF-Iwga7bb" version="18.1.1" type="github">
   <diagram id="KjoFxV1CwAtgnuXmavkD" name="Page-1">
     <mxGraphModel dx="868" dy="3957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="fT2grMXMLWphwwbSTFSN-78" value="Diagramme Séquence Ajouter Employé" style="shape=umlFrame;whiteSpace=wrap;html=1;width=242;height=21;" vertex="1" parent="1">
           <mxGeometry x="120" y="-2760" width="638" height="1079.5" as="geometry" />
         </mxCell>
-        <mxCell id="fT2grMXMLWphwwbSTFSN-2" value="Utilisateur" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;size=45;" vertex="1" parent="1">
+        <mxCell id="fT2grMXMLWphwwbSTFSN-2" value="Administrateur" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;size=45;" vertex="1" parent="1">
           <mxGeometry x="198" y="-2721" width="20" height="985" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="fT2grMXMLWphwwbSTFSN-2">
@@ -26,12 +26,12 @@
           <mxGeometry x="55" y="587.5" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-54" value="Vérification du &lt;br&gt;formulaire" style="edgeStyle=orthogonalEdgeStyle;html=1;align=center;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="fT2grMXMLWphwwbSTFSN-53" parent="fT2grMXMLWphwwbSTFSN-4">
-          <mxGeometry x="0.4286" y="36" relative="1" as="geometry">
+          <mxGeometry x="0.4286" y="30" relative="1" as="geometry">
             <mxPoint x="55" y="567.5" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="85" y="567.5" />
             </Array>
-            <mxPoint x="25" y="-10" as="offset" />
+            <mxPoint x="22" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-24" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
