@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T18:25:28.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="GgtHPzQAAsEB321t0u88" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T18:29:01.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="S70nKEZ6Ts1ZVAwCa8xq" version="18.1.1" type="github">
   <diagram id="KjoFxV1CwAtgnuXmavkD" name="Page-1">
     <mxGraphModel dx="868" dy="3957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,13 +22,13 @@
         <mxCell id="fT2grMXMLWphwwbSTFSN-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="fT2grMXMLWphwwbSTFSN-4">
           <mxGeometry x="55" y="587.5" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fT2grMXMLWphwwbSTFSN-54" value="Vérification du formulaire" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="fT2grMXMLWphwwbSTFSN-53" parent="fT2grMXMLWphwwbSTFSN-4">
-          <mxGeometry x="0.1429" y="8" relative="1" as="geometry">
+        <mxCell id="fT2grMXMLWphwwbSTFSN-54" value="Vérification du &lt;br&gt;formulaire" style="edgeStyle=orthogonalEdgeStyle;html=1;align=center;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="fT2grMXMLWphwwbSTFSN-53" parent="fT2grMXMLWphwwbSTFSN-4">
+          <mxGeometry x="0.4286" y="30" relative="1" as="geometry">
             <mxPoint x="55" y="567.5" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="85" y="567.5" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="22" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-24" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-67" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=40;height=20;" vertex="1" parent="1">
-          <mxGeometry x="152.88" y="-2040" width="517.12" height="290" as="geometry" />
+          <mxGeometry x="153.88" y="-2040" width="517.12" height="290" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.006;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.481;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fT2grMXMLWphwwbSTFSN-67" target="fT2grMXMLWphwwbSTFSN-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -95,25 +95,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="200.88" y="-1963" width="10" height="40" as="geometry" />
+          <mxGeometry x="196.88" y="-1963" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="200.88" y="-1826" width="10" height="50" as="geometry" />
+          <mxGeometry x="195.88" y="-1826" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="560.88" y="-1827" width="10" height="51" as="geometry" />
+          <mxGeometry x="618" y="-1827" width="10" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="fT2grMXMLWphwwbSTFSN-72" value="Ajout Effectué" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="fT2grMXMLWphwwbSTFSN-72" value="Ajout Effectué" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.612;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fT2grMXMLWphwwbSTFSN-75" target="fT2grMXMLWphwwbSTFSN-69">
           <mxGeometry x="0.0523" y="-9" relative="1" as="geometry">
             <mxPoint x="557.88" y="-1960" as="sourcePoint" />
             <mxPoint x="211.88" y="-1962" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fT2grMXMLWphwwbSTFSN-73" value="Veuillez remplir tout les champs" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.2;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fT2grMXMLWphwwbSTFSN-71">
+        <mxCell id="fT2grMXMLWphwwbSTFSN-73" value="Veuillez remplir tout les champs" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.212;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fT2grMXMLWphwwbSTFSN-71">
           <mxGeometry x="0.0728" y="-10" relative="1" as="geometry">
-            <mxPoint x="545.88" y="-1826" as="sourcePoint" />
-            <mxPoint x="210.88" y="-1826" as="targetPoint" />
+            <mxPoint x="567.8800000000001" y="-1826.98" as="sourcePoint" />
+            <mxPoint x="204" y="-1826" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -121,7 +121,10 @@
           <mxGeometry x="199.88" y="-2020" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="560.88" y="-1962.5" width="10" height="45.5" as="geometry" />
+          <mxGeometry x="618" y="-1963" width="10" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fT2grMXMLWphwwbSTFSN-78" value="Diagramme Séquence Se conter" style="shape=umlFrame;whiteSpace=wrap;html=1;width=220;height=20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-2802.5" width="680" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-76" value="[Sinon]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="168.88" y="-1888" width="80" height="26" as="geometry" />
