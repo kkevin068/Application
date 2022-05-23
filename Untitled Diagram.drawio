@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T18:39:51.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="jEiQkG0bS4CHn7yCvYCH" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T18:40:19.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="rwkmpMf1gRBHdmRTJyNW" version="18.1.1" type="github">
   <diagram id="6rhUcgqCmC03kPDw2WSL" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s6SQ2Vj1oC093iPoEPf_-1" value="Diagramme Séquence Se connecter" style="shape=umlFrame;whiteSpace=wrap;html=1;width=220;height=20;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="720" height="720" as="geometry" />
+          <mxGeometry x="120" y="120" width="560" height="680" as="geometry" />
         </mxCell>
         <mxCell id="s6SQ2Vj1oC093iPoEPf_-10" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="160" width="20" height="610" as="geometry" />
