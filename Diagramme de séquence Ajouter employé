@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T18:38:59.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="IfQNiv4QYmrz-67hVPXo" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T18:42:21.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="cFdPZNgPk2RhZisGAInb" version="18.1.1" type="github">
   <diagram id="KjoFxV1CwAtgnuXmavkD" name="Page-1">
     <mxGraphModel dx="868" dy="3957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fT2grMXMLWphwwbSTFSN-78" value="Diagramme Séquence Ajouter Employé" style="shape=umlFrame;whiteSpace=wrap;html=1;width=242;height=21;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-2760" width="638" height="1079.5" as="geometry" />
+        </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-2" value="Utilisateur" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;size=45;" vertex="1" parent="1">
-          <mxGeometry x="191" y="-2735" width="20" height="985" as="geometry" />
+          <mxGeometry x="198" y="-2721" width="20" height="985" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="fT2grMXMLWphwwbSTFSN-2">
           <mxGeometry x="5" y="270" width="10" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-4" value="Système&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="573" y="-2727.5" width="100" height="977.5" as="geometry" />
+          <mxGeometry x="580" y="-2713.5" width="100" height="977.5" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="fT2grMXMLWphwwbSTFSN-4">
           <mxGeometry x="45" y="261.5" width="10" height="65" as="geometry" />
@@ -23,111 +26,108 @@
           <mxGeometry x="55" y="587.5" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-54" value="Vérification du &lt;br&gt;formulaire" style="edgeStyle=orthogonalEdgeStyle;html=1;align=center;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="fT2grMXMLWphwwbSTFSN-53" parent="fT2grMXMLWphwwbSTFSN-4">
-          <mxGeometry x="0.4286" y="30" relative="1" as="geometry">
+          <mxGeometry x="0.4286" y="36" relative="1" as="geometry">
             <mxPoint x="55" y="567.5" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="85" y="567.5" />
             </Array>
-            <mxPoint x="22" y="-10" as="offset" />
+            <mxPoint x="25" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-24" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="153" y="-2640" width="520" height="80" as="geometry" />
+          <mxGeometry x="160" y="-2626" width="520" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-25" value="Se connecter" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-2613" width="80" height="26" as="geometry" />
+          <mxGeometry x="377" y="-2599" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-31" value="Cliquer sur le Menu Employés" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.8;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.4;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="208" y="-2463.96" as="sourcePoint" />
-            <mxPoint x="618" y="-2464.9849999999997" as="targetPoint" />
+            <mxPoint x="215" y="-2449.96" as="sourcePoint" />
+            <mxPoint x="625" y="-2450.9849999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-33" value="Page&amp;nbsp; Employés" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fT2grMXMLWphwwbSTFSN-4" target="fT2grMXMLWphwwbSTFSN-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="489" y="-2398.98" as="sourcePoint" />
-            <mxPoint x="223" y="-2400" as="targetPoint" />
+            <mxPoint x="496" y="-2384.98" as="sourcePoint" />
+            <mxPoint x="230" y="-2386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="196" y="-2355" width="10" height="65" as="geometry" />
+          <mxGeometry x="203" y="-2341" width="10" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-36" value="Cliquer sur le bouton Ajouter Employé" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.8;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.3;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="204" y="-2354.96" as="sourcePoint" />
-            <mxPoint x="621" y="-2354.2200000000003" as="targetPoint" />
+            <mxPoint x="211" y="-2340.96" as="sourcePoint" />
+            <mxPoint x="628" y="-2340.2200000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-37" value="Formulaire Ajouter Employé" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.1;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="619" y="-2290.98" as="sourcePoint" />
-            <mxPoint x="206" y="-2291.0299999999997" as="targetPoint" />
+            <mxPoint x="626" y="-2276.98" as="sourcePoint" />
+            <mxPoint x="213" y="-2277.0299999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="196" y="-2250" width="10" height="90" as="geometry" />
+          <mxGeometry x="203" y="-2236" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-44" value="Remplir formulaire" style="html=1;verticalAlign=bottom;endArrow=open;rounded=0;exitX=0.8;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.3;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="fT2grMXMLWphwwbSTFSN-43">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="204" y="-2249.96" as="sourcePoint" />
-            <mxPoint x="503" y="-2249" as="targetPoint" />
+            <mxPoint x="211" y="-2235.96" as="sourcePoint" />
+            <mxPoint x="510" y="-2235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="618" y="-2355" width="10" height="65" as="geometry" />
+          <mxGeometry x="625" y="-2341" width="10" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-49" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="618" y="-2189" width="10" height="99" as="geometry" />
+          <mxGeometry x="625" y="-2175" width="10" height="99" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-50" value="Cliquer sur le bouton Ajouter" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.8;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.3;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1" target="fT2grMXMLWphwwbSTFSN-49">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="204" y="-2188.96" as="sourcePoint" />
-            <mxPoint x="503" y="-2188" as="targetPoint" />
+            <mxPoint x="211" y="-2174.96" as="sourcePoint" />
+            <mxPoint x="510" y="-2174" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-67" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=40;height=20;" vertex="1" parent="1">
-          <mxGeometry x="153.88" y="-2040" width="517.12" height="290" as="geometry" />
+          <mxGeometry x="160.88" y="-2026" width="517.12" height="290" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.006;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.481;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fT2grMXMLWphwwbSTFSN-67" target="fT2grMXMLWphwwbSTFSN-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="385.88" y="-1940" as="sourcePoint" />
-            <mxPoint x="435.88" y="-1990" as="targetPoint" />
+            <mxPoint x="392.88" y="-1926" as="sourcePoint" />
+            <mxPoint x="442.88" y="-1976" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="196.88" y="-1963" width="10" height="40" as="geometry" />
+          <mxGeometry x="203.88" y="-1949" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="195.88" y="-1826" width="10" height="50" as="geometry" />
+          <mxGeometry x="202.88" y="-1812" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="618" y="-1827" width="10" height="51" as="geometry" />
+          <mxGeometry x="625" y="-1813" width="10" height="51" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-72" value="Ajout Effectué" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.612;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fT2grMXMLWphwwbSTFSN-75" target="fT2grMXMLWphwwbSTFSN-69">
           <mxGeometry x="0.0523" y="-9" relative="1" as="geometry">
-            <mxPoint x="557.88" y="-1960" as="sourcePoint" />
-            <mxPoint x="211.88" y="-1962" as="targetPoint" />
+            <mxPoint x="564.88" y="-1946" as="sourcePoint" />
+            <mxPoint x="218.88" y="-1948" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-73" value="Veuillez remplir tout les champs" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.212;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fT2grMXMLWphwwbSTFSN-71">
           <mxGeometry x="0.0728" y="-10" relative="1" as="geometry">
-            <mxPoint x="567.8800000000001" y="-1826.98" as="sourcePoint" />
-            <mxPoint x="204" y="-1826" as="targetPoint" />
+            <mxPoint x="574.8800000000001" y="-1812.98" as="sourcePoint" />
+            <mxPoint x="211" y="-1812" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-74" value="[Si tout les champs remplis]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="199.88" y="-2020" width="80" height="26" as="geometry" />
+          <mxGeometry x="206.88" y="-2006" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="618" y="-1963" width="10" height="45.5" as="geometry" />
-        </mxCell>
-        <mxCell id="fT2grMXMLWphwwbSTFSN-78" value="Diagramme Séquence Ajouter Employé" style="shape=umlFrame;whiteSpace=wrap;html=1;width=242;height=21;" vertex="1" parent="1">
-          <mxGeometry x="78" y="-2800.5" width="680" height="1120" as="geometry" />
+          <mxGeometry x="625" y="-1949" width="10" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="fT2grMXMLWphwwbSTFSN-76" value="[Sinon]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="168.88" y="-1888" width="80" height="26" as="geometry" />
+          <mxGeometry x="175.88" y="-1874" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
