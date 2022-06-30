@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T04:57:45.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NTlVAhFZN96h0l-PcLrs" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T15:18:20.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="A36zO97XPUyDCB1a4lbc" version="20.0.4" type="github">
   <diagram id="kUjzvRtQA1K0tgF_IDWC" name="Page-1">
-    <mxGraphModel dx="868" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="MtAmIoLAaDO2iQw6frH--78" value="+ AnnulerDemandeConge()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" parent="MtAmIoLAaDO2iQw6frH--5" vertex="1">
           <mxGeometry y="166" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MtAmIoLAaDO2iQw6frH--9" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="MtAmIoLAaDO2iQw6frH--9" value="Employé " style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="280" y="-40" width="240" height="476" as="geometry" />
         </mxCell>
         <mxCell id="MtAmIoLAaDO2iQw6frH--10" value="+ Id: int&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;fontStyle=4" parent="MtAmIoLAaDO2iQw6frH--9" vertex="1">
